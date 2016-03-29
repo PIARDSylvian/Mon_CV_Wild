@@ -1,11 +1,26 @@
 body{
-	background-color: 104, 187, 285;
+	background-color: rgb(104, 187, 285);
 }
 header{
 
 }
 #left-box{
+	padding: 10px;
 	float: left;
-	background-color: 9, 30, 45;
+	background-color: rgb(9, 30, 45);
 	color:#fff;
+	height: 100%;
+}
+img{
+	width: 100px;
+	height: 120px;
+}
+#right-box{
+	margin-left: 300px;
+}
+#experiences-box{
+	background-color: #fff;
+}
+#studies-box{
+	background-color: #fff;
 }
